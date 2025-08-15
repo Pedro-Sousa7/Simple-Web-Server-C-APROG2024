@@ -34,6 +34,7 @@ While a complete web server can be quite complex, this simplified version focuse
 
 ```
  gcc src/*.c -o httpd
+./httpd
 ```
 
  

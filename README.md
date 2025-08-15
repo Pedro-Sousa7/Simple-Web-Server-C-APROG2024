@@ -30,11 +30,10 @@ While a complete web server can be quite complex, this simplified version focuse
 
  ## 🚀 How to Run
 
+**CHANGE ON `main.c` THE PATH ON WWW_ROOT**
+
  ### Linux
 
 ```
  gcc src/*.c -o httpd && ./httpd
 ```
-
- 
-

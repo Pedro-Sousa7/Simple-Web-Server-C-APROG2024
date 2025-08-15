@@ -33,8 +33,7 @@ While a complete web server can be quite complex, this simplified version focuse
  ### Linux
 
 ```
- gcc src/*.c -o httpd
-./httpd
+ gcc src/*.c -o httpd && ./httpd
 ```
 
  
